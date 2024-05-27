@@ -16,3 +16,4 @@ langchain_openai
 langchainhub
 groq
 langchain-groq
+sentence_transformers
