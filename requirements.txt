@@ -14,3 +14,5 @@ arxiv
 wikipedia
 langchain_openai
 langchainhub
+groq
+langchain-groq
